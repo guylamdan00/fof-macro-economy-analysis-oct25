@@ -48,8 +48,6 @@ Designed to surface inflationary pressure (production > consumption), detect ano
    - Trend lines for balance & out, ratio charts, scatter plots for anomalies/segments.  
 4. **Interpret**  
    - Flag inflation (balance growth >> out), hoarding/dumping patterns, sink efficacy.  
-5. **Share**  
-   - Export charts/CSV or push summaries to Sheets (optional).
 
 ---
 
@@ -75,9 +73,9 @@ Energy Balance Trendline — stored energy over time (inflation/hoarding).
 
 Energy Out Trendline — spend rate and sink effectiveness.
 
-Balance/Out Ratio — single-number health signal over time and by segment.
+Scatter Diagnostics — for dice and missionbar live ops events.
 
-Scatter Diagnostics — outliers by tier/VIP/experiment.
+Distribution Diagnostics - Puzzle and Dice live ops events progression tracking.
 
 
 ## **🔐 Credentials & Data Hygiene**
